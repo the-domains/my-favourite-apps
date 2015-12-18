@@ -2,6 +2,7 @@ name: My Favourite Apps
 favicon: null
 layout_spectrum: 0.99248
 typography_spectrum: 0.25125
+title: My Favourite Apps
 cta:
   domain: null
   bucket: null
