@@ -1,7 +1,7 @@
 name: My Favourite Apps
 favicon: null
-layout_spectrum: 0.3252939486410469
-typography_spectrum: 0.200731229968369
+layout_spectrum: 0.99248
+typography_spectrum: 0.25125
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.01848312420770526
-  lightness: 0.7116622421890497
-  saturation: 0.07081342791207135
-  rhythmicContrast: 0.9411105026956648
+    - '#ffffff'
+    - '#ffffff'
+    - '#ffffff'
+    - '#ffffff'
+    - '#ffffff'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
